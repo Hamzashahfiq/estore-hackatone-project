@@ -1,0 +1,10 @@
+.AddCard{
+    display: inline-block;
+    position: relative
+}
+
+.cardText{
+    position: absolute;
+    top:0;
+    right:0
+}
